@@ -1,0 +1,19 @@
+{
+  "name": "reading-lists-integrat-cu-goodreads",
+  "version": "1.0.0",
+  "description": "Acest proiect oferă o soluție integrată pentru gestionarea listelor de lectură, utilizând platforma Goodreads. Aplicația permite utilizatorilor să creeze, să administreze și să sincronizeze liste de cărți cu conturile lor Goodreads, facilitând organizarea și urmărirea progresului în lectură.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
