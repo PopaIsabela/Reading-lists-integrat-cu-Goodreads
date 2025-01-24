@@ -10,3 +10,10 @@ Reading-lists-integrat-cu-Goodreads este conceput pentru pasionații de lectură
 
 Proiectul se concentrează pe integrarea ușoară cu API-ul Goodreads, având o interfață prietenoasă și funcționalități ușor de utilizat.
 
+
+Stimate domnule Pofesor,
+Sper că acest mesaj vă găsește bine. Vă scriu pentru a vă adresa o actualizare privind progresul meu în cadrul proiectului pentru cursul TW.
+Am reușit să implementez corect partea de back-end a aplicației, inclusiv crearea și gestionarea utilizatorilor și listelor de lectură, precum și efectuarea cererilor API prin Postman. Cu toate acestea, am întâmpinat dificultăți în implementarea front-end-ului, iar din păcate, nu am reușit să finalizez această parte a proiectului din cauza unor probleme tehnice.
+Am depus eforturi semnificative pentru a rezolva aceste probleme, însă nu am reușit să finalizez front-end-ul sub nicio forma indiferent ce am incercat sa implementez. În ciuda acestui fapt, am atașat la acest mesaj doar partea de back-end care se regaseste in link-ul urmator: https://we.tl/t-D32YTIPbKJ
+Îmi pare sincer rău că nu am reușit să livrez întregul proiect conform cerințelor.
+Va multumesc!
